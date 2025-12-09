@@ -1,5 +1,8 @@
-### Hi, I'm Yogesh 👋  
-I'm a Master's student in AI & ML at [TU Darmstadt](https://www.tu-darmstadt.de/), working on Deep Reinforcement Learning in the [IAS Lab](https://www.ias.informatik.tu-darmstadt.de/).  
+# Hi, I'm Yogesh Tripathi 👋  
+
+### I'm a Master's student in AI & ML at [TU Darmstadt](https://www.tu-darmstadt.de/), working on Deep Reinforcement Learning in the [IAS Lab](https://www.ias.informatik.tu-darmstadt.de/).  
+
+You can find my latest CV [here](https://drive.google.com/file/d/1bN3PPhDRH2VZbpV0OmabcHfPiEng8D4k/view?usp=sharing).
 
 ### 📚 Publications: 
 1. **Bridging the Performance Gap Between Target-Free and Target-Based Reinforcement Learning.**\
@@ -8,6 +11,12 @@ I'm a Master's student in AI & ML at [TU Darmstadt](https://www.tu-darmstadt.de/
 2. **Eau De Q-Network: Adaptive Distillation of Neural Networks in Deep Reinforcement Learning.**\
    Vincent, T., Faust, T., **Tripathi, Y.**, Peters, J., D’Eramo, C.\
    RLC 2025. \[[Paper](https://arxiv.org/pdf/2503.01437), [Code](https://github.com/theovincent/EauDeDQN)\]
-3. **InSaAF: Incorporating Safety through Accuracy and Fairness - Are LLMs ready for the Indian Legal Domain?**
+3. **InSaAF: Incorporating Safety through Accuracy and Fairness - Are LLMs ready for the Indian Legal Domain?**\
    **Tripathi, Y.\***, Donakanti, R.*, Girhepuje, S.*, Kavathekar, I., Vedula, B., Krishnan, G., Goyal, S., Goel, A., Ravindran, B., Kumaraguru, P.\
    JURIX 2024 (Short paper). \[[Paper](https://ebooks.iospress.nl/volumearticle/71031), [Code](https://github.com/Raghav010/InSaAF)\]
+
+### 🌐 Feel free to connect with me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh1q2w) 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=NRvRRmYAAAAJ&hl=en) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh1q2w@gmail.com) 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YogeshTrip7354)
