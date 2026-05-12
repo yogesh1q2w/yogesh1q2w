@@ -5,12 +5,15 @@
 You can find my latest CV [here](https://drive.google.com/file/d/1bN3PPhDRH2VZbpV0OmabcHfPiEng8D4k/view?usp=sharing).
 
 ### 📚 Publications:
-1. **Bridging the Performance Gap Between Target-Free and Target-Based Reinforcement Learning.**\
-   Vincent, T., **Tripathi, Y.**, Faust, T., Oren, Y., Peters, J., D’Eramo, C.\
-   RLC Workshop on Finding the Frame 2025, EWRL 2025. \[[Paper](https://www.arxiv.org/pdf/2506.04398), [Code](https://github.com/theovincent/iS-DQN)\]
+1. **Gradient Iterated Temporal-Difference Learning.**\
+   Vincent, T., Gerhardt, K., **Tripathi, Y.**, Maraqten, H., White, A., White, M., Peters, J., D’Eramo, C.\
+   RLJ 2026. \[[Paper](https://arxiv.org/pdf/2603.07833), [Code](https://github.com/theovincent/Gi-DQN)\]
+2. **Bridging the Performance Gap Between Target-Free and Target-Based Reinforcement Learning.**\
+   Vincent, T., **Tripathi, Y.**, Faust, T., Akgül, A., Oren, Y., Kandemir, M., Peters, J., D’Eramo, C.\
+   ICLR 2026. \[[Paper](https://www.arxiv.org/pdf/2506.04398), [Code](https://github.com/theovincent/iS-DQN)\]
 2. **Eau De Q-Network: Adaptive Distillation of Neural Networks in Deep Reinforcement Learning.**\
    Vincent, T., Faust, T., **Tripathi, Y.**, Peters, J., D’Eramo, C.\
-   RLC 2025. \[[Paper](https://arxiv.org/pdf/2503.01437), [Code](https://github.com/theovincent/EauDeDQN)\]
+   RLJ 2025. \[[Paper](https://arxiv.org/pdf/2503.01437), [Code](https://github.com/theovincent/EauDeDQN)\]
 3. **InSaAF: Incorporating Safety through Accuracy and Fairness - Are LLMs ready for the Indian Legal Domain?**\
    **Tripathi, Y.\***, Donakanti, R.\*, Girhepuje, S.\*, Kavathekar, I., Vedula, B., Krishnan, G., Goyal, S., Goel, A., Ravindran, B., Kumaraguru, P.\
    JURIX 2024 (Short paper). \[[Paper](https://ebooks.iospress.nl/volumearticle/71031), [Code](https://github.com/Raghav010/InSaAF)\]
