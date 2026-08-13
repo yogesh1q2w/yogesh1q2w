@@ -1,6 +1,6 @@
 # Hi, I'm Yogesh Tripathi 👋  
 
-### I'm a Master's student in AI & ML at [TU Darmstadt](https://www.tu-darmstadt.de/), working on Deep Reinforcement Learning in the [IAS Lab](https://www.ias.informatik.tu-darmstadt.de/).  
+### I'm a PhD student at the University of Innsbruck, working under [Prof. Samuele Tosatto](https://iis.uibk.ac.at/people/tosatto), investigating the connection between the stability of training and sample efficiency of reinforcement learning (RL) algorithms. Previously, as a Master's student in AI & ML at TU Darmstadt, I worked on improving Deep RL algorithms at the [IAS Lab](https://www.ias.informatik.tu-darmstadt.de/).
 
 You can find my latest CV [here](https://drive.google.com/file/d/1bN3PPhDRH2VZbpV0OmabcHfPiEng8D4k/view?usp=sharing).
 
