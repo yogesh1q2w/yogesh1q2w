@@ -1,13 +1,13 @@
 # Hi, I'm Yogesh Tripathi 👋  
 
-### I'm a PhD student at the University of Innsbruck, working under [Prof. Samuele Tosatto](https://iis.uibk.ac.at/people/tosatto), investigating the connection between the stability of training and sample efficiency of reinforcement learning (RL) algorithms. Previously, as a Master's student in AI & ML at TU Darmstadt, I worked on improving Deep RL algorithms at the [IAS Lab](https://www.ias.informatik.tu-darmstadt.de/).
+### I'm a PhD student at the University of Innsbruck, advised by [Prof. Samuele Tosatto](https://iis.uibk.ac.at/people/tosatto), working on investigating problems related to the stability of training and sample efficiency of reinforcement learning (RL) algorithms. Previously, as a Master's student in AI & ML at TU Darmstadt, I worked with [Théo Vincent](https://www.ias.informatik.tu-darmstadt.de/Team/TheoVincent) on improving Deep RL algorithms at the [IAS Lab](https://www.ias.informatik.tu-darmstadt.de/).
 
 You can find my latest CV [here](https://drive.google.com/file/d/1bN3PPhDRH2VZbpV0OmabcHfPiEng8D4k/view?usp=sharing).
 
 ### 📚 Publications:
 1. **Gradient Iterated Temporal-Difference Learning.**\
    Vincent, T., Gerhardt, K., **Tripathi, Y.**, Maraqten, H., White, A., White, M., Peters, J., D’Eramo, C.\
-   RLJ 2026. \[[Paper](https://arxiv.org/pdf/2603.07833), [Code](https://github.com/theovincent/Gi-DQN)\]
+   RLJ 2026 (Outstanding Paper Award for Empirical RL research). \[[Paper](https://arxiv.org/pdf/2603.07833), [Code](https://github.com/theovincent/Gi-DQN)\]
 2. **Bridging the Performance Gap Between Target-Free and Target-Based Reinforcement Learning.**\
    Vincent, T., **Tripathi, Y.**, Faust, T., Akgül, A., Oren, Y., Kandemir, M., Peters, J., D’Eramo, C.\
    ICLR 2026. \[[Paper](https://www.arxiv.org/pdf/2506.04398), [Code](https://github.com/theovincent/iS-DQN)\]
